@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Final Guru Repo',
+    name: 'INFOCUS Repo',
     description: 'Custom store for Kasm supported workspaces.',
     icon: 'https://userverifried.github.io/kasm-registry/1.0/icon.png',
     listUrl: 'https://userverifried.github.io/kasm-registry/',
